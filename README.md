@@ -1,2 +1,4 @@
-# w266-KarSar-MovieGenreClassification
-Movie genre multi-label classification
+# w266 Final Project
+
+**Project** : An Integrated Visio-Textual Approach to Movie Genre Classification <br />
+**Authors** : Sartaj Singh Baveja, Karthik Srinivasan
