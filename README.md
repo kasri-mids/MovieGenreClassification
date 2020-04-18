@@ -1,4 +1,4 @@
-# Integrated Visio-Textual Approach to Movie Genre Classification
+# An Integrated Visio-Textual Approach to Movie Genre Classification
 
 **Authors** : Sartaj Singh Baveja, Karthik Srinivasan
 
@@ -10,9 +10,9 @@ As movie collections within streaming services grow, providing relevant movie re
 
 Our project is structured in the following way. 
 
-- `src/Data` folder contains the data related notebooks where we source and parse the data, clean it and generate BERT tokens as well as poster feature vectors along with perform EDA on it
-- `src/Baseline BERT` folder contains ipython notebook for our baseline BERT model
-- `src/Baseline Posters` folder contains ipython notebook for our baseline Poster model
-- `src/Combined Model` folder contains ipython notebook for our multi-headed deep neural network integrated model
-- `src/Analysis` folder contains notebooks where we perform error analysis as well as calculate our weighted f1 scores for different models
-- `Final Submission` folder contains our Final Presentation along with the Final Paper that was submitted.
+- [src/Data](./src/Data) folder contains the data related ipython notebooks where we source and parse the data, clean it and generate BERT tokens as well as poster feature vectors along with perform EDA on it
+- [src/Baseline BERT](./src/Baseline%20BERT) folder contains the ipython notebook for our baseline BERT model
+- [src/Baseline Posters](./src/Baseline%20Posters) folder contains the ipython notebook for our baseline Poster model
+- [src/Combined Model](./src/Combined%20Model) folder contains the ipython notebook for our multi-headed deep neural network integrated model
+- [src/Analysis](./src/Analysis) folder contains ipython notebooks for our error analysis as well as weighted f1 score analysis for different models
+- [Final Submission](./Final%20Submission) folder contains our Final Presentation along with the Final Paper that was submitted.
