@@ -8,7 +8,7 @@ As movie collections within streaming services grow, providing relevant movie re
 
 ## Code
 
-**Note:** All the codes in this repository were run on TPU's with High RAM on Google Colab. 
+**Note:** All the codes in this repository were run on TPU's with High RAM on Google Colab and tensorflow version 2.1.0. 
 
 Our code is structured in the following way. 
 
