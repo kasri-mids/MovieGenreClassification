@@ -6,6 +6,10 @@
 
 As movie collections within streaming services grow, providing relevant movie recommendations have become an integral part for customer satisfaction and retention. For this purpose, classification of movies into genres have taken center stage. In this project, we describe a novel method of combining the movie plot summaries with their poster publications to better describe its genre. We propose a multi-headed deep neural network (DNN) that simultaneously trains the plot summaries and the poster images, while optimizing for maximum F1 scores. We show that the results from this combined DNN out-perform conventional Natural Language Processing (NLP) and convolutional networks (CNN).
 
+## Paper
+
+The final paper is located [here](./Final%20Submission/MovieGenreClassification.pdf).
+
 ## Code
 
 **Note:** All the codes in this repository were run on TPU's with High RAM on Google Colab and tensorflow version 2.1.0. 
